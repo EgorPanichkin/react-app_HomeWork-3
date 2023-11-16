@@ -1,0 +1,25 @@
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 16px;
+  width: 736px;
+  margin: 0px auto 15px;
+  border: 2px solid #5d5d5d;
+  border-radius: 10px;
+  color: white;
+  cursor: default;
+}
+
+.delete {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  border: 2px solid #5d5d5d;
+  background-color: #262626;
+  color: white;
+  cursor: pointer;
+}
